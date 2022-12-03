@@ -16,7 +16,7 @@ body {
 .left {
     height: 100vh;
     width: 50vw;
-    background: url('/img/bg.jpg');
+    background: url('img/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -85,7 +85,7 @@ input {
 }
 
 .button {
-    background: url('/img/bg.jpg');
+    background: url('img/bg.jpg');
     background-position: center center;
     border: none;
     color: white;
